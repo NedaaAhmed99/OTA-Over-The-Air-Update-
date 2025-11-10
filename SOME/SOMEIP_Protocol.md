@@ -1,12 +1,12 @@
-# SOME/IP Protocol (Scalable service-Oriented MiddlewarE over IP)
+## SOME/IP Protocol (Scalable service-Oriented MiddlewarE over IP)
 
-## Overview
+### Overview
 **SOME/IP** is a middleware protocol used in automotive Ethernet communication, mainly within **AUTOSAR systems**.  
 It enables communication between automotive ECUs over Ethernet using a **service-oriented architecture (SOA)** model.
 
 ---
 
-## SOME/IP Message Structure
+### SOME/IP Message Structure
 
 SOME/IP packet consists of two parts:
 
