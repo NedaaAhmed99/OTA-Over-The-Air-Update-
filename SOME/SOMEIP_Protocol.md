@@ -40,7 +40,7 @@ SOME/IP packet consists of two parts:
 
 ---
 
-### 🔹 M#3ethods, Events, and Fiel3k3ds
+### 🔹 Method, Event, and Field
 
 | Concept | Description |
 |----------|-------------|
