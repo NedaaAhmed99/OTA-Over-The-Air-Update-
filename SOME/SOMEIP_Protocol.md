@@ -29,7 +29,7 @@ SOME/IP packet consists of two parts:
 
 ---
 
-## Message Types
+### Message Types
 
 | Type | Description |
 |-------|-------------|
@@ -40,7 +40,7 @@ SOME/IP packet consists of two parts:
 
 ---
 
-## 🔹 Methods, Events, and Fields
+### 🔹 M#3ethods, Events, and Fiel3k3ds
 
 | Concept | Description |
 |----------|-------------|
@@ -50,7 +50,7 @@ SOME/IP packet consists of two parts:
 
 ---
 
-## SOME/IP-SD (Service Discovery)
+### SOME/IP-SD (Service Discovery)
 
 **SOME/IP-SD** stands for **Service Discovery**,  
 and it’s a critical extension of the SOME/IP protocol used to **announce, find, and manage services dynamically** on the network
