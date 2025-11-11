@@ -18,7 +18,7 @@ This framework describes the process for performing OTA (Over-The-Air) software 
 
 ### **Linux-RPI (Yocto)**
 - Operates as the **In-Vehicle Infotainment (IVI)** system.  
-- Receives the update package via **SOME/IP**.  
+- Receives the update package via **SOME/IP** from **QNX**.  
 - Applies the software update (**OTA process**).  
 
 ---
